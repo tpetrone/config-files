@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/labxp'
+let g:netrw_dirhist_2='/Users/labxp/Desktop'
+let g:netrw_dirhist_3='/Users/labxp'
+let g:netrw_dirhist_4='/Users/labxp/Desktop'
+let g:netrw_dirhist_5='/Users/labxp/smart-city-software-platform/resource-viewer/scripts'
+let g:netrw_dirhist_6='/Users/labxp/smart-city-software-platform'
+let g:netrw_dirhist_7='/Users/labxp/smart-city-software-platform/resource-viewer'
